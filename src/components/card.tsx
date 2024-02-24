@@ -1,5 +1,6 @@
 // import { Card } from 'antd'
-import { useRouter } from "next/router";
+// import { useRouter } from "next/router";
+import { useRouter } from "next/navigation";
 import React from "react";
 
 export type Card = {
